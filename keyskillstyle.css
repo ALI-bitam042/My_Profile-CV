@@ -1,0 +1,21 @@
+H2 {
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    color: red;
+    text-align: center;
+
+}
+H3 {
+    font-family: 'Times New Roman';
+    font-size: 14x;
+    color: black;
+    text-align:left;
+    padding-left: 30px;
+
+}
+body {
+background-color:rgb(118, 213, 244);
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;
+}

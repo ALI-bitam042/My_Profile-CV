@@ -1,0 +1,23 @@
+H2 {
+    font-family: 'Times New Roman';
+    font-size: x-large;
+    color: red;
+    text-align: center;
+
+}
+H3 {
+    font-family: 'Times New Roman';
+    font-size:x-large;
+    text-align: left;
+    padding-left: 30px;
+
+}
+body {
+background-color: pink;
+color: blue;
+font-family: 'Times New Roman', Times, serif;
+font: size larger;
+}
+OL{
+    font-size: larger;
+}
